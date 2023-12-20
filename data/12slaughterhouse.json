@@ -1,0 +1,38 @@
+{
+    "id": "27690100",
+    "name": "12% on slaughterhouse",
+    "author": "IcEDCave",
+    "verifier": "YalZu",
+    "desc": "THE GATES HAVE OPENED ONCE AGAIN.",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://www.youtube.com/watch?v=wfKl3HolmHI",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "DragoonSlayer"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Zoiter Process"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=jeIOGfyeqO8",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/SIW56vdy5b0",
+            "user": "Anix"
+        }
+    ]
+}

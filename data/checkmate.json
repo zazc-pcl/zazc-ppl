@@ -1,0 +1,33 @@
+{
+    "id": "94816839",
+    "name": "checkmate",
+    "author": "DragoonSlayer",
+    "verifier": "DragoonSlayer",
+    "desc": "magbus carlston",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/GOfdgnzrXP8",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2dDpgy5Ic7o",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=gAnj_yNlWXE",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link":"https://www.youtube.com/watch?v=Ds0QPzFAiWY",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link":"https://youtu.be/SIW56vdy5b0",
+            "user": "Anix"
+        }
+    ]
+}

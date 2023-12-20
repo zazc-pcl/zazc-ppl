@@ -1,0 +1,33 @@
+{
+    "id": "90522766",
+    "name": "Flow",
+    "author": " YalZu",
+    "verifier": "YalZu",
+    "desc": "practicing new type of gp",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://www.youtube.com/watch?v=lp6KRVOyJdY",
+    "records": [
+{
+    "percent": "100",
+    "link": "",
+    "user": "Zoiter Process"
+},
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=xRN_-q4dlLo",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/z5N9J8kRMI8",
+            "user": "Anix"
+        }
+    ]
+}

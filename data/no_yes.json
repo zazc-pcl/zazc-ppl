@@ -1,0 +1,38 @@
+{
+    "id": "78723814",
+    "name": "no yes",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "kozia"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "DragoonSlayer"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=jeIOGfyeqO8",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/W6snRNyxr5E",
+            "user": "Anix"
+        }
+    ]
+}

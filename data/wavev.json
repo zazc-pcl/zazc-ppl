@@ -1,0 +1,28 @@
+{
+    "id": "77439303",
+    "name": "Wave V",
+    "author": "YalZu",
+    "verifier": "YalZu",
+    "desc": "lucky att GG (challenge btw)",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/Pr845hM7XsE",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Zoiter Process"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=xRN_-q4dlLo",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/W6snRNyxr5E",
+            "user": "Anix"
+        }
+    ]
+}

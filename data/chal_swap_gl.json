@@ -1,0 +1,38 @@
+{
+    "id": "80292160",
+    "name": "chal swap gl",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "ball challenge",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "DragoonSlayer"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/nZmNzuilWDk",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=gAnj_yNlWXE",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=cBNsLAg6QQ0",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/z5N9J8kRMI8",
+            "user": "Anix"
+        }
+    ]
+}

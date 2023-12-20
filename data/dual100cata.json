@@ -1,0 +1,38 @@
+{
+    "id": "90051180",
+    "name": "Dual - 100% on Cataclysm",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "DragoonSlayer"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=gAnj_yNlWXE",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/z5N9J8kRMI8",
+            "user": "Anix"
+        }
+    ]
+}

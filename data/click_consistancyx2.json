@@ -1,0 +1,38 @@
+{
+    "id": "79354648",
+    "name": "click consitancyx2",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "DragoonSlayer"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kQDZUdcCDM4",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=r72XsY5YxdI",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/z5N9J8kRMI8",
+            "user": "Anix"
+        }        
+    ]
+}

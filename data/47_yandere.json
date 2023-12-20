@@ -1,0 +1,33 @@
+{
+    "id": "90052182",
+    "name": "The Yandere 4-7%",
+    "author": "YalZu",
+    "verifier": "Zoiter Process",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "yt.be",
+    "records": [
+        {
+            "percent": "100",
+            "link": "",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=jeIOGfyeqO8",
+            "user": "Man1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/W6snRNyxr5E",
+            "user": "Anix"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "90519581",
+    "name": "FunkE",
+    "author": "YalZu",
+    "verifier": "YalZu",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://www.youtube.com/watch?v=_fP-GQ1pgxI",
+    "records": [
+    {
+    "percent": "100",
+    "link": "",
+    "user": "Zoiter Process"
+    },
+    {
+    "percent": "100",
+    "link": "https://youtu.be/aBVkKMtODRc",
+    "user": "Kozia"
+    },
+    {
+            "percent": "100",
+            "link": "https://youtu.be/z5N9J8kRMI8",
+            "user": "Anix"
+    }
+    ]
+}
