@@ -1,0 +1,19 @@
+{
+    "id": "97689622",
+    "name": "The Ballack Box",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "the black box (ball edition)",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://www.youtube.com/watch?v=2ryLmyC87BI",
+    "records": [
+        {
+            "percent": "100",
+            "time": "64",
+            "link": "https://www.youtube.com/watch?v=uG11bIzAsAY",
+            "user": "kozia"
+        }
+    ]
+}
