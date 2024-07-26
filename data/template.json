@@ -11,11 +11,13 @@
     "records": [
         {
             "percent": "100",
+            "time": "999999",
             "link": "Completion Video Link",
             "user": "Person 1"
         },
         {
             "percent": "100",
+            "time": "15",
             "link": "Completion Video Link",
             "user": "Person 2"
         }

@@ -74,22 +74,28 @@
 }
 .page-list .level-container .level .records {
     table-layout: fixed;
-}
-.page-list .level-container .level .records tr td:not(:last-child) {
-    padding-right: 1rem;
-}
-.page-list .level-container .level .records .percent,
-.page-list .level-container .level .records .user,
-.page-list .level-container .level .records .hz {
-    padding-block: 1rem;
-}
-.page-list .level-container .level .records .user {
     width: 100%;
 }
-.page-list .level-container .level .records .percent,
-.page-list .level-container .level .records .hz {
-    text-align: end;
+.page-list .level-container .level .records td {
+    padding: 1rem;
+    vertical-align: middle; /* Align vertically to center */
+    text-align: left; /* Ensure text is aligned to the left */
 }
+.page-list .level-container .level .records .time {
+    text-align: left; /* Ensure time is aligned to the left */
+    padding-right: 2rem; /* Add more space to the right */
+    width: 30%; /* Set width to ensure it aligns properly */
+}
+.page-list .level-container .level .records .user {
+    white-space: nowrap; /* Prevent wrapping */
+    width: 70%; /* Set width to ensure it aligns properly */
+}
+
+/* Adjust spacing between columns */
+.page-list .level-container .level .records td:not(:last-child) {
+    padding-right: 1.5rem; /* Increase spacing between columns */
+}
+
 .page-list .meta-container .og a:hover,
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;

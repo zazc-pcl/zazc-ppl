@@ -57,19 +57,20 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
-                    <table class="records">
-                        <tr v-for="record in level.records" class="record">
-                            <td class="percent">
-                                <p>{{ record.percent }}%</p>
-                            </td>
-                            <td class="user">
-                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
-                            </td>
-                        </tr>
-                    </table>
+						<table class="records">
+							<tr v-for="record in sortedRecords" class="record">
+								<td class="time">
+									<a :href="record.link" target="_blank" class="type-label-lg">
+										<p>{{ formatTime(record.time) }}</p>
+									</a>
+								</td>
+								<td class="user">
+									<a :href="record.link" target="_blank" class="type-label-lg">
+										{{ record.user }}
+									</a>
+								</td>
+							</tr>
+						</table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
@@ -117,6 +118,13 @@ export default {
         video() {
             return embed(this.level.verificationVid);
         },
+        sortedRecords() {
+            // Ensure that records are sorted by time
+            if (this.level && this.level.records) {
+                return [...this.level.records].sort((a, b) => a.time - b.time);
+            }
+            return [];
+        }
     },
     async mounted() {
         // Hide loading spinner
@@ -146,5 +154,18 @@ export default {
     methods: {
         embed,
         score,
-    },
+        formatTime(seconds) {
+            const minutes = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            const hours = Math.floor(minutes / 60);
+            const mins = minutes % 60;
+            if (hours > 0) {
+                return `${hours}h ${mins}m ${secs}s`;
+            }
+            if (minutes > 0) {
+                return `${mins}m ${secs}s`;
+            }
+            return `${secs}s`;
+        }
+    }
 };
